@@ -1,0 +1,26 @@
+	<style type="text/css">
+	.body{
+    margin: 0;
+    padding: 0;
+   
+}
+.container form{
+    width: 30%;
+    height: auto;
+    margin-left: 25%;
+    margin-top: 5%;
+    padding: 10px;
+}
+#backgroundColor{
+    width: auto;
+    height: 40px; 
+    margin-left: 13%;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: 1px solid #112233;
+    color: #fafafa;
+    background: #445566;
+    font-size: 18px;
+    cursor: pointer;
+    outline: none;
+}
